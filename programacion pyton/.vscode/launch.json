@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Actividad1",
+            "request": "launch",
+            "mainClass": "Actividad1",
+            "projectName": "programacion pyton_caca56b1"
+        },
+        {
+            "type": "java",
+            "name": "InstruccionAsistidaPorComputadora",
+            "request": "launch",
+            "mainClass": "InstruccionAsistidaPorComputadora",
+            "projectName": "programacion pyton_caca56b1"
+        },
+        {
+            "name": "Python: módulo",
+            "type": "python",
+            "request": "launch",
+            "module": "escriba-el-nombre-de-su-módulo",
+            "justMyCode": true
+        }
+    ]
+}
